@@ -92,19 +92,19 @@ $ClassMapping = @{
 
 $NameMapping = @{
     "G156888" = @{
-        Name  = "BELTONE MANAGED CARE"
+        Name  = "Juan MANAGED CARE"
         Terms = "Net 90"
     }
     "G156887" = @{
-        Name  = "BELTONE MANAGED CARE"
+        Name  = "Juan MANAGED CARE"
         Terms = "Net 90"
     }
     "10937"   = @{
-        Name  = "BELTONE"
+        Name  = "Juan"
         Terms = "Net 60"
     }
     "G129656" = @{
-        Name  = "BELTONE"
+        Name  = "Juan"
         Terms = "Net 30"
     }
 }
